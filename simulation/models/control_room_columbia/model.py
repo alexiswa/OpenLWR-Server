@@ -247,6 +247,8 @@ buttons = {
     "RMCS_INSERT_PB": False,
     "RMCS_WITHDRAW_PB": False,
 
+    "RMCS_CONTINSERT_PB": False,
+
 
 }
 
